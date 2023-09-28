@@ -1,7 +1,7 @@
 # Central Luzon State University Molecular Biology and Biotechnology Society
 
 <p align="center">
-  <img src="../assets/mbbsoc.jpg" width="350" title="Central Luzon State University Molecular Biology and Biotechnology Society Logo">
+  <img src="https://github.com/CLSUMBBsoc/.github/blob/060bc271657c3ef685e98e6f1a40045ba18ec218/assets/mbbsoc.jpg" width="350" title="Central Luzon State University Molecular Biology and Biotechnology Society Logo">
 </p>
 
 The Central Luzon State University Molecular Biology and Biotechnology Society (CLSU MBBSoc) aims to promote and create public awareness of the science of Molecular Biology, Biotechnology, and allied fields in the Philippines.
